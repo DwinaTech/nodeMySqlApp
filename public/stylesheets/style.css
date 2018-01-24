@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.personalInfo, .idea{
+  background: #333;
+  color: #bbb;
+  height: 100vh;
+  display: flex;
+  align-items: center
+}
+
+.personalInfo h1, .idea h1{
+  color: #fff;
+  padding-bottom: .5em;
+}
+
+.ideas{
+  background: #bbb;
+  color: #000;
+  padding: 2em 0;
+}
